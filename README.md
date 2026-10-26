@@ -6,6 +6,14 @@ I work on AI and machine learning in cybersecurity, threats to AI/ML systems, mo
 
 This GitHub brings together cybersecurity research, hands-on teaching examples, and self-hosted tools for everyday workflows.
 
+## Security Field Notes
+
+[![Security Field Notes by Igor Khokhlov — A vote becomes a login](https://i-xoxol.github.io/security-field-notes/assets/social-card.png)](https://i-xoxol.github.io/security-field-notes/)
+
+**[Read my blog →](https://i-xoxol.github.io/security-field-notes/)** — Cybersecurity investigations, applied AI, research, and teaching, with practical explanations and evidence.
+
+Featured case: **[A vote becomes a login](https://i-xoxol.github.io/security-field-notes/posts/a-vote-becomes-a-login/)** — A Telegram phishing investigation with screenshots, an interactive explanation, Daybreak-assisted analysis, and a downloadable 18-page report.
+
 ## Selected projects
 
 ### Self-hosted assistants and automation
