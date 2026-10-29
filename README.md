@@ -32,6 +32,15 @@ Featured case: **[A vote becomes a login](https://i-xoxol.github.io/security-fie
 | [Authentication Module Lab](https://github.com/i-xoxol/AuthModuleLab) | Educational authentication examples in Python and Java, with a Flask API and browser interface. |
 | [CY410 authentication example](https://github.com/i-xoxol/TempCY410Auth) | A Python/Flask example covering password hashing, registration, and JWT authentication. |
 
+### Educational browser projects
+
+| Project | Focus |
+| --- | --- |
+| [Family Game Room](https://github.com/i-xoxol/family-game-room) | A curated collection of browser games for reading, counting, and play, with prepared narration and touch-oriented interfaces. |
+| [Робі / Robi Playroom](https://github.com/i-xoxol/robi-playroom) | A self-hosted Ukrainian-speaking robot prototype with prepared learning games, optional voice conversation, and parent controls. |
+
+These are supervised learning and play projects, not validated educational interventions.
+
 ### Portfolio and earlier projects
 
 [CV website](https://github.com/i-xoxol/cv-website) is a Next.js portfolio and monitoring dashboard.
